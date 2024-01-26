@@ -1,0 +1,15 @@
+button{
+    background-color:royalblue;
+    font-family:Bahnschrift;
+    font-size:15px;
+    color:azure;
+    border-style: none;
+    padding:5px;
+}
+div{
+    background-color: gold;
+    font-family:Bahnscrift;
+    font-size: medium;
+    font-weight: bold;
+    
+}
